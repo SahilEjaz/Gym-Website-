@@ -38,3 +38,6 @@ git clone https://github.com/SahilEjaz/Gym-Website-.git
 cd Gym-Website-
 npm install
 npm run dev
+
+🔗 Deployed on Vercel: https://gym-website-drab-pi.vercel.app
+
