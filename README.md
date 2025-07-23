@@ -27,7 +27,7 @@ It features a bold layout for fitness businesses to showcase their services and 
 
 ##  Preview
 
-![GymFluncer Screenshot](./screenshot.png)
+![GymFluncer Screenshot](./gym.png)
 
 ---
 
